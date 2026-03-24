@@ -24,7 +24,7 @@ Run the script from your terminal. You must provide exactly one of the two flags
 ### 1. Calculate File Count from Capacity (`-c`, `--capacity`)
 If you know your cluster size in Terabytes (TB) and want to know how many 4KiB files it can support:
 
-bash
+
 python metadata_calc.py -c 200
 
 -------------------------------------------------------
