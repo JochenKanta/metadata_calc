@@ -27,7 +27,7 @@ If you know your cluster size in Terabytes (TB) and want to know how many 4KiB f
 bash
 python metadata_calc.py -c 200
 
--------------------------------------------------------
+'-------------------------------------------------------
 Mode: Calculating file count from capacity
 -------------------------------------------------------
 Cluster Capacity:       200.00 TB
