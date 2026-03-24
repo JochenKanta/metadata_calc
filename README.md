@@ -49,10 +49,17 @@ python metadata_calc.py -f 439453125
 
 
 -------------------------------------------------------
+
 Mode: Calculating capacity from file count
+
 -------------------------------------------------------
+
 Desired 4kB Files:          439,453,125
+
 Required Cluster Capacity:  200.00 TB
+
 Resulting PTU Reservation:  2.00 TB (1%)
+
 -------------------------------------------------------
+
 
